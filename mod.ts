@@ -5,7 +5,7 @@
  *
  * @example
  * ```ts
- * import { fib } from "./mod.ts";
+ * import { fib } from "import { fib } from "@phocks/fib";
  *
  * console.log(fib(3)); // 2
  * console.log(fib(5)); // 5
